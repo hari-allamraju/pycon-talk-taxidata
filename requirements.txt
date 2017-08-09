@@ -1,0 +1,9 @@
+requests
+pandas
+pytest
+xmljson
+scikit-learn
+scipy
+matplotlib
+pyproj
+jupyter
