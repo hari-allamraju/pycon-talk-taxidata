@@ -8,3 +8,4 @@ matplotlib
 pyproj
 jupyter
 git+https://github.com/hari-allamraju/sg-taxidata.git
+geocoder
