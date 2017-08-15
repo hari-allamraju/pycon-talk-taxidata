@@ -106,3 +106,6 @@ data/
 *.tar.*
 *.tar.gz
 *.tar.gz.*
+*.png
+*.avi
+*.gif
