@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
 echo "Saving PYTHONPATH"
 ORIGINAL_PYTHONPATH=$PYTHONPATH
 echo "Prepending package to PYTHONPATH"
