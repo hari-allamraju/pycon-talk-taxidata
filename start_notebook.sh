@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
+jupyter nbextension enable --py --sys-prefix gmaps
 echo "Saving PYTHONPATH"
 ORIGINAL_PYTHONPATH=$PYTHONPATH
 echo "Prepending package to PYTHONPATH"
